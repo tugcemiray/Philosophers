@@ -1,16 +1,5 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: tukaraca <tukaraca@student.42.fr>          +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2025/07/23 01:52:24 by tugcemiraya       #+#    #+#              #
-#    Updated: 2025/07/26 19:31:34 by tukaraca         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
 
-NAME		= philo
+NAME		= philosophers
 
 CC			= cc
 CFLAGS		= -Wall -Wextra -Werror -fsanitize=thread
